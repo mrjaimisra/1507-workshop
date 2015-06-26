@@ -22,10 +22,10 @@ After the workshop we will head over to [Wynkoop Brewing Company](http://www.wyn
   - Projects 
   - Mental health and ways to deal with a heavy workload 
   - Questions?
-- Command Line (Terminal) (20 min)
+- Command Line (Terminal) (30 min)
   - Basic Commands
     - `cd`, `..`, `touch <file>`, `mkdir`, `mv`, `rm`, 
-- git and GitHub (30 min) 
+- git and GitHub (45 min) 
   - Difference between git and GitHub
   - Who to follow 
   - create a git repository 
