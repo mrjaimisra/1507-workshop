@@ -13,9 +13,10 @@ please send Lovisa an email (she was cc:ed in one of the emails Raissa sent out)
   - Posses 
   - Slack 
   - Community Night/Demo Night 
-- What to expect in module 1 (45 min)
+- What to expect in module 1 (60 min)
   - First week - classes, homework and exercises
   - Projects 
+  - Mental health and ways to deal with a heavy workload 
   - Questions?
 - Command Line (Terminal) (20 min)
   - Basic Commands
