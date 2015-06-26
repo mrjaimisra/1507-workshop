@@ -16,11 +16,13 @@ After the workshop we will head over to [Wynkoop Brewing Company](http://www.wyn
 - The Turing Community (15 min)  
   - Posses 
   - Slack 
+  - Working with mentors / Pairing (maybe move this into a different session)
   - Community Night/Demo Night 
 - What to expect in module 1 (60 min)
   - First week - classes, homework and exercises
   - Projects 
   - Mental health and ways to deal with a heavy workload 
+  - Asking for help / struggling with difficult problems
   - Questions?
 - Command Line (Terminal) (30 min)
   - Basic Commands
@@ -30,6 +32,7 @@ After the workshop we will head over to [Wynkoop Brewing Company](http://www.wyn
   - Who to follow 
   - create a git repository 
   - `add`, `git status`, `git commit -m 'my commit'`, `git push`, `git log`
+- Editors (RubyMine, VIM, SublimeText
 
 ####Computer Setup Checklist 
 - [Jumpstart Lab Environment Setup](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
