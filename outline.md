@@ -1,10 +1,14 @@
 ###Welcome 1507!
 
 The workshop will be Thursday, July 2nd from 1pm - 4pm at Turing. During the workshop we will answer any and all questions you have, talk a bit about what you will expect from the first module, introduce you to the basics of using
-the command line (terminal), slack git and GitHub. If you have no idea what the command line, slack, git, or GitHub are - don't worry. That's why we are having a workshop!
+the command line (terminal), slack, git and GitHub. If you have no idea what the command line, slack, git, or GitHub are - don't worry. That's why we are having a workshop!
 
 If you would like to get help setting up your computer, feel free to come to Turing around 11 am. There will be students here to help you getting your machine prepped with the necessary tools. If you are planning on coming early,
 please send Lovisa an email (she was cc:ed in one of the emails Raissa sent out). You are of course also welcome to come early to work on other things or get help with Pragmatic Studio or any other things you are working on.
+
+You are not required to come to the workshop. Like Jeff Casimir would say, "you don't *have* to do anything". 
+
+After the workshop we will head over to [Wynkoop Brewing Company](http://www.wynkoop.com/) for the student hosted happy hour! 
 
 ####Workshop Outline 
 #####Thursday July 2nd 1pm - 4pm, probably in classroom A at Turing 
